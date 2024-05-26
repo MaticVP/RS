@@ -1,0 +1,6 @@
+solution/
+third_homework_cs/
+build/
+.Xilinx/
+*.txt
+./src/swCMakeLists.txt
