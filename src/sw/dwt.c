@@ -10,7 +10,7 @@
 #include "stb_image_write.h"
 
 #define IMAGE_WIDTH 512
-#define LEVELS 2
+#define LEVELS 4
 
 
 // Define image structure
